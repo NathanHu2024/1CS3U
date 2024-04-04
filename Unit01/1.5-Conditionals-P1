@@ -15,8 +15,8 @@ if (user_name == "Mr. J"){
     console.log("🐠");
  }
 
- let name = user_name
- let length = name.length
+ let name = user_name;
+ let length = name.length;
 
  if (length > 7){
     console.log("You have a long name.");
