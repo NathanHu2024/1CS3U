@@ -15,7 +15,7 @@ let selection = parseInt(prompt("Hi " + user_name + ". Please make a selection "
 
 if (selection = 1){
 console.log("Let's play!");
-{
+}
 else if (selection = 2) {
 console.log("You selected Options.");
 }
@@ -28,5 +28,6 @@ console.log("Everything is up to date.");
 else if (selection = 5){
 console.log("Bye!");
 }
-else console.log("Invalid selection");
-
+else {
+console.log("Invalid selection")
+}}
